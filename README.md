@@ -1,13 +1,5 @@
 # Read Me Template
-
-![Project Image](project-image-url)
-
-> This is a ReadMe template to help save you time and effort.
-
----
-
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
@@ -19,12 +11,16 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+this is a game about a fox that is trying to get...well somewhere, there is not much of a story for it
+
+i will be saying here that some assets that i used is not mine, i did the coding not the art mostly
+the assets that i used are Referenced down below
+
+for now and the next project it will be 2D but in my third i will be making a 3D project (hopefully)
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Unity
 
 [Back To The Top](#read-me-template)
 
@@ -32,47 +28,35 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 ## How To Use
 
+for installing read the installation, and for the movement :
+
+menu controls = mouse
+left and right movement = a/d, left/right button
+jump movement = w, space, up button
+
 #### Installation
 
+there are installtion files in the installers folder, just go there and download the right installer file
 
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
 [Back To The Top](#read-me-template)
 
 ---
 
 ## References
+
+the assets i used :
+
+- [Sunny Land](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349)
+- [2S Simple UI Pack](https://assetstore.unity.com/packages/2d/gui/icons/2d-simple-ui-pack-218050)
+- [Pixel Font - Tripfive](https://assetstore.unity.com/packages/2d/fonts/pixel-font-tripfive-64734)
+
 [Back To The Top](#read-me-template)
 
 ---
 
 ## License
 
-MIT License
-
-Copyright (c) [2017] [James Q Quick]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+nothin, a whole lotta nothin
 
 [Back To The Top](#read-me-template)
 
@@ -80,7 +64,7 @@ SOFTWARE.
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Youtube - [@CaptainMirage]()
+- Github - [Captain Mirage](https://github.com/CaptainMirage)
 
 [Back To The Top](#read-me-template)
