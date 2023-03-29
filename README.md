@@ -1,8 +1,9 @@
 # Foxy's adventure
-### Table of Contents
+### Deck of Contents
 
 - [Description](#description)
 - [How To Use](#how-to-use)
+- [Developers](#Developers)
 - [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
@@ -22,7 +23,7 @@ for now and the next project it will be 2D but in my third i will be making a 3D
 
 - Unity
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Deck-of-Contents)
 
 ---
 
@@ -40,7 +41,7 @@ there are installtion files in the installers folder, just go there and download
 
 here is the link to download the files : [Click Meh](https://drive.google.com/drive/folders/1MTrbRBtYWhOd5O0KKcW9d_jGEObMozlc?usp=sharing)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Deck-of-Contents)
 
 ---
 
@@ -48,7 +49,7 @@ here is the link to download the files : [Click Meh](https://drive.google.com/dr
 
 Me, Myself & I
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Deck-of-Contents)
 
 ---
 
@@ -60,7 +61,7 @@ the assets i used :
 - [2S Simple UI Pack](https://assetstore.unity.com/packages/2d/gui/icons/2d-simple-ui-pack-218050)
 - [Pixel Font - Tripfive](https://assetstore.unity.com/packages/2d/fonts/pixel-font-tripfive-64734)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Deck-of-Contents)
 
 ---
 
@@ -68,7 +69,7 @@ the assets i used :
 
 nothin, a whole lotta nothin
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Deck-of-Contents)
 
 ---
 
@@ -77,4 +78,4 @@ nothin, a whole lotta nothin
 - Youtube - [@CaptainMirage]()
 - Github - [Captain Mirage](https://github.com/CaptainMirage)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Deck-of-Contents)
