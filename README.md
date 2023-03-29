@@ -75,7 +75,7 @@ nothin, a whole lotta nothin
 
 ## Author Info
 
-- Youtube - [@CaptainMirage]()
+- Youtube - [@CaptainMirage](https://www.youtube.com/@CaptainMirage/featured)
 - Github - [Captain Mirage](https://github.com/CaptainMirage)
 
 [Back To The Top](#Foxys-adventure)
